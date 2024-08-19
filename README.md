@@ -47,7 +47,7 @@ To explore the analysis:
 ## Acknowledgments
 
 - **Data Source**: [World Happiness Report 2023](https://worldhappiness.report)
-- **Tools Used**: Created with [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/).
+- **Libraries Used**: Created with [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/).
 
 ## Contact
 
